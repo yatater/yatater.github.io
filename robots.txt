@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yatater.github.io/sitemap.html.gz
+Sitemap: https://yatater.github.io/app/sitemap.html.gz
+Sitemap: https://yatater.github.io/assets/sitemap.html.gz
+Sitemap: https://yatater.github.io/css/sitemap.html.gz
+Sitemap: https://yatater.github.io/includes/sitemap.html.gz
+Sitemap: https://yatater.github.io/item/sitemap.html.gz
+Sitemap: https://yatater.github.io/src/sitemap.html.gz
